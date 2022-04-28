@@ -21,7 +21,13 @@ _global_script_class_icons={
 [application]
 
 config/name="fruitboi"
+run/main_scene="res://Scene.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=1300
+window/size/height=800
 
 [gdnative]
 
